@@ -1,13 +1,16 @@
 body {
     text-align: center;
-    color: lightskyblue;
-    background-color: lightgoldenrodyellow;
+    color: darkblue;
+    background-color: orange;
 }
 .title {
-    font-size: 3rem;
+    font-size: 4rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: .1em .1em white;
 }
 .clockContainer{
-    border: .4em solid black;
+    border: 1em solid black;
+    border-radius: 30%;
 }
 .clockContainer div{
     display: inline-block;
@@ -21,18 +24,26 @@ body {
 }
 .buttonContainer button{
     font-size: 3rem;
-    border-radius: 18%;
     text-shadow: .1em .1em black;
+    border: .2rem solid yellow;
 }
 .startBtn {
+    border-radius: 50%;
     background-color: green;
     color: lightgreen;
+    margin-right: 3rem;
+    font-family: cursive;
+    height: 9rem;
+    width: 9rem;
+    box-shadow: -.51em 0em white;
 }
 .stopBtn {
+    border-radius: 18%;
     background-color: darkred;
     color: red;
-}
-.resetBtn {
-    background-color: lightblue;
-    color: darkblue;
+    margin-left: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 9rem;
+    width: 9rem;
+    box-shadow: .51em 0em black;
 }

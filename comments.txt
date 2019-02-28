@@ -5,15 +5,23 @@
 
 Problems so far...
     -Can't get the minutes to pop up.
-    -The Stop button and Reset button don't work yet.
-    - The design is very basic.
-
-
+    -The Stop button doesn't work.
+    -Needs Button animation on click.
+    -You can click the start button multiple times and it speeds up the count with each click.
+    -
+    -
 
 
 
 Problems fixed...
     -The Start button works.
+    -Got rid of the Reset Button
+    -Design is improving.
+    -
     -
     -
 
+
+
+Stretch Goals...
+    -Turn the word "watch" into a picture of a watch.
