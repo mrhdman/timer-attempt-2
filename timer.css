@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    color: lightskyblue;
+    background-color: lightgoldenrodyellow;
+}
+.title {
+    font-size: 3rem;
+}
+.clockContainer{
+    border: .4em solid black;
+}
+.clockContainer div{
+    display: inline-block;
+    font-size: 2em;
+}
+.buttonContainer{
+    margin-top: 1rem;
+}
+.buttonContainer div{
+    display: inline-block;
+}
+.buttonContainer button{
+    font-size: 3rem;
+    border-radius: 18%;
+    text-shadow: .1em .1em black;
+}
+.startBtn {
+    background-color: green;
+    color: lightgreen;
+}
+.stopBtn {
+    background-color: darkred;
+    color: red;
+}
+.resetBtn {
+    background-color: lightblue;
+    color: darkblue;
+}

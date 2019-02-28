@@ -1,0 +1,19 @@
+                                
+                                
+                                The goal is to make a stopwatch.
+
+
+Problems so far...
+    -Can't get the minutes to pop up.
+    -The Stop button and Reset button don't work yet.
+    - The design is very basic.
+
+
+
+
+
+Problems fixed...
+    -The Start button works.
+    -
+    -
+
