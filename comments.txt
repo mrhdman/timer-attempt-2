@@ -17,7 +17,7 @@ Problems fixed...
     -The Start button works.
     -Got rid of the Reset Button
     -Design is improving.
-    -
+    -@media only min-width applied
     -
     -
 
@@ -25,3 +25,5 @@ Problems fixed...
 
 Stretch Goals...
     -Turn the word "watch" into a picture of a watch.
+    -
+    -

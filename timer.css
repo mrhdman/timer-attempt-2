@@ -47,3 +47,14 @@ body {
     width: 9rem;
     box-shadow: .51em 0em black;
 }
+@media only screen and (min-width: 650px){
+    h1 {
+        font-size: 3rem;
+    }
+    .clockContainer{
+        border: none;
+    }
+    .clockContainer div{
+        font-size: 6em;
+    }
+}
